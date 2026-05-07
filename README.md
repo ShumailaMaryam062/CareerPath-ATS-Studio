@@ -1,1 +1,1 @@
-# CareerPath-ATS-Studio
+# CareerPath ATS Studio
